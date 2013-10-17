@@ -1,11 +1,15 @@
 {
     "name": "mesingh/phpwhois",
     "description": "A simple php whois package",
-    "license": "MIT",
+    "keywords": ["whois", "phpwhois"],
+    "homepage": "http://github.com/Seldaek/monolog",
+    "type": "library",
+    "license": "GPLv2",
     "authors": [
         {
             "name": "Mandeep Singh",
             "email": "mandeep@websterfolks.com"
+            "homepage": "http://msingh.me"
         }
     ],
     "autoload": {
